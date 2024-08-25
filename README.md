@@ -1,14 +1,9 @@
-<h1 align="center">
+<div align="center">
   
 ![imagen](https://github.com/user-attachments/assets/3ef84898-2990-49b3-903f-a0f6a323a92d)
 
-</h1>
 
-
-
-<h1 align="center"> 
-  👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻
-</h1>
+<h1> 👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻 </h1>
         <table align="center">
           <thead>
             <tr>
@@ -99,3 +94,5 @@
   </dd>
   <dd>
 <dl>
+
+</div> 
