@@ -1,6 +1,7 @@
 <div align="center">
   
-![imagen](https://github.com/user-attachments/assets/3ef84898-2990-49b3-903f-a0f6a323a92d)
+
+![Screenshot_2025-05-21_at_16-34-08_Free_Logo_Maker_-_Get_Custom_Logo_Designs_in_Minutes_Looka-removebg-preview](https://github.com/user-attachments/assets/6138a287-1201-4012-a001-d8fdf7d4e025)
 
 
 <h1> 👩‍💻👨🏼‍💻 Integrantes 👩‍💻👨🏼‍💻 </h1>
